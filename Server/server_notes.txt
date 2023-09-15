@@ -1,0 +1,15 @@
+
+
+                                  BACKEND FOR RESTURANTS
+                            ----------------------------------------
+        1. Create A folder Server in resturant-listing-app folder
+        2. Create a package.json file  - npm init -y
+        3. Create a rest json services - npm i json-server
+        4. To connect different port - npm i cors
+
+                    or,
+            npm i json-server cors
+
+        5. Create a .gitignore file and add node_modules (then the node_modules folder will fade)
+        6. Create index.js 
+        
